@@ -1,5 +1,5 @@
 <h1 align="center">Hey! This is Rohith K Bobby</h1>
-<h3 align="center">A ML addict coder from Kerala, India</h3>
+<h3 align="center">A ML and AI coder from Kerala, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith04mvk&label=Profile%20views&color=0e75b6&style=flat" alt="rohith04mvk" /> </p>
 
