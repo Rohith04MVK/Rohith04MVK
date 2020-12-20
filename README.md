@@ -11,11 +11,12 @@
 
 - 👯 I’m looking to collaborate on [Fashion MNIST](https://github.com/Rohith04MVK/Fashion-MNIST)
 
-- 🤝 I’m looking for help with **abc**
+- 🤝 I’m looking for help with **C++ and JS**
 
-- 💬 Ask me about **Machine learning!**
+- 💬 Ask me about **Machine learning and Python!**
 
-- 📫 How to reach me **007rohitjj04@gmail. com**
+- 📫 How to reach me **Mail: 007rohitjj04@gmail.com
+                        Discord: 007rohitj#7175**
 
 - ⚡ Fun fact **I do love to play minecraft and bedwars!**
 
