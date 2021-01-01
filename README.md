@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Datasets implementation and explanations](https://github.com/janaSunrise/sklearn-datasets-implementation)
 
-- 🎉 My produdest project is [AI art](https://github.com/Rohith04MVK/AI-Art-Generator)
+- 🎉 My proudest project is [AI art](https://github.com/Rohith04MVK/AI-Art-Generator)
 
 - 🌱 I’m currently learning **Tensorflow and Deep learning**
 
