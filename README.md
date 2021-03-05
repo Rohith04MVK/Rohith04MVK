@@ -1,4 +1,4 @@
-![carbon (1)](https://user-images.githubusercontent.com/67266075/110073185-f5fc6700-7da4-11eb-974c-ec0f14c74c40.png)
+![carbon](https://user-images.githubusercontent.com/67266075/110073572-981c4f00-7da5-11eb-85d3-673628b714e9.png)
 <h1 align="center">Hey! This is Rohith K Bobby</h1>
 <h3 align="center">A ML and AI coder from Kerala, India</h3>
 
