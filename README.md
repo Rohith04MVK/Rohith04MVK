@@ -14,8 +14,9 @@
 #### Sports, I like playing cricket and badminton  
 #### Music, my favorite artists are Script and OneRepublic                                   
 #### Video Games, Minecraft especially Hypixel bedwars
-                                   
 
+## Some of my best repos
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=AI-Art-Generator"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=sklearn-datasets-implementation"/>
 
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Flask-Object-Detection-App"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Fashion-MNIST"/>
 
