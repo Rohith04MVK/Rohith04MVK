@@ -12,7 +12,7 @@
 #### Video Games, Minecraft especially Hypixel bedwars
 
 ## Some of my best repos
-[![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=AI-Art-Generator)](https://github.com/Rohith04MVK/AI-Art-Generator)] <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=sklearn-datasets-implementation"/>
+[![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=AI-Art-Generator)](https://github.com/Rohith04MVK/AI-Art-Generator)] [![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=sklearn-datasets-implementation)](https://github.com/Rohith04MVK/sklearn-datasets-implementation)
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Flask-Object-Detection-App"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Fashion-MNIST"/>
 
