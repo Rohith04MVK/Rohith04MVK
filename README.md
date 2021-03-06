@@ -14,7 +14,7 @@
 ## Some of my best repos
 [![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=AI-Art-Generator)](https://github.com/Rohith04MVK/AI-Art-Generator)] [![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=sklearn-datasets-implementation)](https://github.com/Rohith04MVK/sklearn-datasets-implementation)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Flask-Object-Detection-App"/> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Fashion-MNIST"/>
+[![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Flask-Object-Detection-App)](https://github.com/Rohith04MVK/Flask-Object-Detection-App) [![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Fashion-MNIST)](https://github.com/Rohith04MVK/Fashion-MNIST)
 
 ## My useful arsenal
 
