@@ -12,9 +12,9 @@
 #### Video Games, Minecraft especially Hypixel bedwars
 
 ## Some of my best repos
-[![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=AI-Art-Generator)](https://github.com/Rohith04MVK/AI-Art-Generator) [![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=sklearn-datasets-implementation)](https://github.com/Rohith04MVK/sklearn-datasets-implementation)
+[![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=AI-Art-Generator&theme=dark)](https://github.com/Rohith04MVK/AI-Art-Generator) [![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=sklearn-datasets-implementation&theme=dark)](https://github.com/Rohith04MVK/sklearn-datasets-implementation)
 
-[![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Flask-Object-Detection-App)](https://github.com/Rohith04MVK/Flask-Object-Detection-App) [![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Fashion-MNIST)](https://github.com/Rohith04MVK/Fashion-MNIST)
+[![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Flask-Object-Detection-App&theme=dark)](https://github.com/Rohith04MVK/Flask-Object-Detection-App) [![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Fashion-MNIST&theme=dark)](https://github.com/Rohith04MVK/Fashion-MNIST)
 
 ## My useful arsenal
 
