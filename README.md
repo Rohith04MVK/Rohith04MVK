@@ -8,7 +8,7 @@
 
 ## Now, what are some of my hobbies? 
 #### Sports 🏏, I like playing cricket and badminton  
-#### Music, my favorite artists are Script and OneRepublic                                   
+#### Music 🎵, my favorite artists are Script and OneRepublic                                   
 #### Video Games, Minecraft especially Hypixel bedwars
 
 ## Some of my best repos
