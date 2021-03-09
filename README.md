@@ -9,7 +9,7 @@
 ## Now, what are some of my hobbies? 
 #### Sports 🏏, I like playing cricket and badminton  
 #### Music 🎵, my favorite artists are Script and OneRepublic                                   
-#### Video Games, Minecraft especially Hypixel bedwars
+#### Video Games 🎮, Minecraft especially Hypixel bedwars
 
 ## Some of my best repos
 [![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=AI-Art-Generator&theme=dark)](https://github.com/Rohith04MVK/AI-Art-Generator) [![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=sklearn-datasets-implementation&theme=dark)](https://github.com/Rohith04MVK/sklearn-datasets-implementation)
