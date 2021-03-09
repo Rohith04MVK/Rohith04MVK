@@ -2,7 +2,7 @@
 <h1 align="center">Hello everyone! My name is Rohith K Bobby 👋</h1>
 <h3 align="center">A ML and AI coder from Kerala, India</h3>
 
-## Do you know me? No?
+## Do you know me❓ No❓
 
 #### Hello Guys! My name is Rohith. I'm a 16 y/o Indian programmer who just got into programming, Now I really love coding, and discussing coding slowly but surely developed a passion for programming and all related stuff. The lockdown caused by the pandemic was kind of a really good thing that has happened to me, from being afraid of HTML to making AI and ML model in one year, it was a journey I won't forget. The people I met on the way, the friendships made, lessons learned all this was a great adventure.
 
