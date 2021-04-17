@@ -25,4 +25,4 @@
 <p align=center><img src="https://github-readme-stats.vercel.app/api?username=Rohith04MVK&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith04MVK&layout=compact&theme=tokyonight"/></p>
 <p align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith04MVK&theme=tokyonight"></p>
 
-<p align=center><img src="http://spotify.aio-api.ml/spotify?id=qz8fcd527avrf52hvxqjc2jfa&theme=wavy&image=true&eq_bar_theme=plain&color_theme=tokyonight&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false" alt="spotify-readme-card"/></p>
+<p align=center><img src="http://spotify.aio-api.ml/spotify?id=qz8fcd527avrf52hvxqjc2jfa&theme=wavy&image=true&eq_bar_theme=plain&color_theme=tokyonight&bars_when_not_listening=true&bg_color=&title_color=&text_color=&hide_status=false" alt="spotify-readme-card"/></p>
