@@ -15,7 +15,7 @@
 ## Some of my best repos
 [![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=AI-Art-Generator&theme=tokyonight)](https://github.com/Rohith04MVK/AI-Art-Generator) [![image](https://github-readme-stats.vercel.app/api/pin/?username=Deep-Alchemy&repo=Mini-Keras&theme=tokyonight)](https://github.com/Rohith04MVK/Mini-Keras)
 
-[![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Flask-Object-Detection-App&theme=tokyonight)](https://github.com/Rohith04MVK/Flask-Object-Detection-App) [![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Fashion-MNIST&theme=tokyonight)](https://github.com/Rohith04MVK/Fashion-MNIST)
+[![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Brain-Tumor-Segmentation-And-Classification&theme=tokyonight)](https://github.com/Rohith04MVK/Brain-Tumor-Segmentation-And-Classification) [![image](https://github-readme-stats.vercel.app/api/pin/?username=Rohith04MVK&repo=Fashion-MNIST&theme=tokyonight)](https://github.com/Rohith04MVK/Fashion-MNIST)
 
 ## 🔧My useful arsenal
 
