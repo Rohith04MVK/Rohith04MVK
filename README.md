@@ -1,5 +1,7 @@
 <!-- Display the assets/profile.png image as rounded -->
-<image src="assets/profile.png" height="auto" width="200" align="center" />
+<p align="center" style="margin: 0; border-radius: 50%;">
+    <image src="assets/profile.png" height="auto" width="200" />
+</p>
 
 <h1 align="center">Hello everyone, I'm Rohith K Bobby! 👋</h1>
 
