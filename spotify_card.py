@@ -478,7 +478,7 @@ def get_song_info(spotify: Spotify) -> Song:
 
 # Endregion
 
-print(f"Debug: {os.environ['SPOTIFY_CLIENT_ID']}")
+print(f"Debug: {os.environ}")
 spotify = Spotify(
     os.environ["SPOTIFY_CLIENT_ID"],
     os.environ["SPOTIFY_CLIENT_SECRET"],
