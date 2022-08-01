@@ -3,7 +3,7 @@ name: Spotify Card
 on:
   workflow_dispatch:
   schedule:
-    cron: "*/30 * * * *"
+    - cron: "*/30 * * * *"
   push:
     branches:
       - master
