@@ -1,5 +1,7 @@
 <!-- Display the assets/profile.png image as rounded -->
-<image src="assets/profile.png" style="border-radius: 50%;" />
+<p align="center" style="margin: 0; border-radius: 50%;">
+    <image src="assets/profile.png" height="auto" width="200" />
+</p>
 
 <h1 align="center">Hello everyone, I'm Rohith K Bobby! 👋</h1>
 
@@ -41,7 +43,7 @@ fn main() {
         frameworks: vec![
             "Flask", "FastAPI", "Pandas", "Numpy", "Tensorflow", "Pytorch"
         ],
-        others: vec!["Git", "Github", "Spotify", "Manjaro"],
+        others: vec!["Git", "Github", "Spotify", "Arch"],
         socials: {
             let mut map = HashMap::new();
             map.insert("Discord", "RohitK#7175");
