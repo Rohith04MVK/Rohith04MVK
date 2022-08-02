@@ -65,5 +65,5 @@ fn main() {
 </p>
 
 <p align=center>
-    <img src="http://spotify.aio-api.ml/spotify?id=qz8fcd527avrf52hvxqjc2jfa&theme=wavy&image=true&eq_bar_theme=plain&color_theme=tokyonight&bars_when_not_listening=true&bg_color=&title_color=&text_color=&hide_status=false" alt="spotify-readme-card"/>
+    <img src="spotify/spotify-banner.jpeg" alt="spotify-readme-card"/>
 </p>
