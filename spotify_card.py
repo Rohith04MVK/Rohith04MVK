@@ -493,7 +493,7 @@ status = random.choice(STATUS_MAPPING[song.is_now_playing]) + ":"
 generate_image(status, song, top_tracks, "spotify-banner.jpeg")
 
 # Push to github
-github = Github(os.environ["GIT_TOKEN"])
+github = Github(os.environ["GITHUB_TOKEN"])
 
 repo = github.get_repo("Rohith04MVK/Rohith04MVK")
 committer = InputGitAuthor('readme-bot', '41898282+github-actions[bot]@users.noreply.github.com')
