@@ -28,8 +28,8 @@ jobs:
 
       - name: Run the script
         env:
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+          SPOTIFY_CLIENT_ID: ${{ env.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ env.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ env.SPOTIFY_REFRESH_TOKEN }}
+          GITHUB_TOKEN: ${{ env.GIT_TOKEN }}
         run: python spotify_card.py
