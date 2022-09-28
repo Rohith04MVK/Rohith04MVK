@@ -1,5 +1,5 @@
 <!-- Display the assets/profile.png image as rounded -->
-<p align="center" style="margin: 0; border-radius: 50%;">
+<p align="center" style="margin: 0; border-radius: 100%;">
     <image src="assets/profile.png" height="auto" width="200" />
 </p>
 
