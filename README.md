@@ -1,6 +1,6 @@
 <!-- Display the assets/profile.png image as rounded -->
 <p align="center" style="margin: 0; border-radius: 100%;">
-    <image src="assets/profile.png" height="auto" width="200" />
+    <image src="https://media.discordapp.net/attachments/796370670547632178/1058393082288156723/image1.png" height="auto" width="200" />
 </p>
 
 <h1 align="center">Hello everyone, I'm Rohith K Bobby! 👋</h1>
