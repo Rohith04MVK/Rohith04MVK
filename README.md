@@ -1,6 +1,6 @@
 <!-- Display the assets/profile.png image as rounded -->
 <p align="center" style="margin: 0; border-radius: 100px;">
-    <image src="https://media.discordapp.net/attachments/796370670547632178/1058393082288156723/image1.png" height="auto" width="200" />
+    <image src="https://i.pinimg.com/736x/02/58/cb/0258cbb9ea0177551aed28c64716d5d4.jpg" height="auto" width="200" />
 </p>
 
 <h1 align="center">Hello everyone, I'm Rohith K Bobby! 👋</h1>
@@ -9,9 +9,7 @@
 
 ### Here's to know me more
 
-Hey y'all, My name is Rohith. 18 y/o developer from India, still consider myself new but always learning new things. I absolutely love to write code, and discuss code, and everything around code, haha. Got a knack for
-programming, and building those cool ML models you've always dreamt of. Journey been a crazy one, went from
-being scared by HTML to loving Machine learning in a single year, during the pandemic. The people I met on the way, the friendships made, lessons learned all this was a great adventure! 💙
+Hey there, I'm Rohith, a passionate developer who loves to write and discuss code. I'm always excited to learn new things and develop my skills, especially when it comes to building amazing machine learning models. My coding journey has been an incredible adventure, going from being intimidated by HTML to falling in love with the world of AI and ML. Along the way, I've met inspiring people, made lifelong friendships, and learned valuable lessons that have helped me grow as a developer. I'm always looking for new opportunities to create and innovate, so feel free to check out my work and connect with me!
 
 ### I absolutely love to do these
 
