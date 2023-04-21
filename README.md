@@ -9,7 +9,7 @@
 
 ### Here's to know me more
 
-Hey there, I'm Rohith, a passionate developer who loves to write and discuss code. I'm always excited to learn new things and develop my skills, especially when it comes to building amazing machine learning models. My coding journey has been an incredible adventure, going from being intimidated by HTML to falling in love with the world of AI and ML. Along the way, I've met inspiring people, made lifelong friendships, and learned valuable lessons that have helped me grow as a developer. I'm always looking for new opportunities to create and innovate, so feel free to check out my work and connect with me!
+Hi there! My name is Rohith and I am a passionate developer who enjoys writing and discussing code. Learning new things and developing my skills is always an exciting endeavor, particularly when it comes to building innovative machine learning models. I have been on an incredible coding journey, starting from feeling intimidated by HTML to falling in love with the fascinating world of AI and ML. This journey has led me to meet inspiring people, form lifelong friendships, and learn valuable lessons that have aided in my growth as a developer. I am constantly searching for new opportunities to create and innovate. If you are interested, please take a look at my work and feel free to connect with me!
 
 ### I absolutely love to do these
 
