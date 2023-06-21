@@ -65,3 +65,6 @@ fn main() {
 <p align=center>
     <img src="spotify/spotify-banner.jpeg" alt="spotify-readme-card"/>
 </p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg">
+</p>
