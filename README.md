@@ -4,7 +4,6 @@
 </p>
 
 <h1 align="center">Hello everyone, I'm Rohith K Bobby! 👋</h1>
-
 <h3 align="center">A Machine learning dev & student</h3>
 
 ### Here's to know me more
