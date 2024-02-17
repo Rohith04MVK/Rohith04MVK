@@ -1,5 +1,4 @@
 # Spotify for twitter banner - Adapted for Github READMEs
-
 from __future__ import annotations
 
 import base64
